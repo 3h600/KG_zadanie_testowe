@@ -1,6 +1,6 @@
 # KG_zadanie_testowe
 Zadanie testowe - platfroma zakupowa
-Repozytorium zawiera frontend i serwer dla aplikacji
+<br>Repozytorium zawiera frontend i serwer dla aplikacji
 
 Uruchomienie
 1. Ściągnij repozytorium git clone 

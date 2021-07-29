@@ -1,0 +1,15 @@
+.justify-items-end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.spinner-container {
+  
+        height: 500px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+}

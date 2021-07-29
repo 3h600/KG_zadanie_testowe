@@ -1,0 +1,28 @@
+.button-back {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: white;
+  border: 1px solid #04575a;
+  border-radius: 0.2rem;
+  padding: 0 1rem 0 1rem;
+  height: 3rem;
+}
+
+.button-back:hover {
+  background-color: #cfe4f03d;
+}
+
+.button-back-description {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button-back-description > img {
+  height: 2rem;
+  margin-right: 1rem;
+}
+.button-back-description > p {
+  font-weight: 700;
+}
